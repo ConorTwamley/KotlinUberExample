@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390758581956",
+    "firebase_url": "https://kotlinuberclone-6e4f1.firebaseio.com",
+    "project_id": "kotlinuberclone-6e4f1",
+    "storage_bucket": "kotlinuberclone-6e4f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390758581956:android:0a7043280892e584742b91",
+        "android_client_info": {
+          "package_name": "com.conor.kotlinuberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390758581956-98bocohoqpokv15f7e4hvj1ltbkmsqst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conor.kotlinuberclone",
+            "certificate_hash": "92c981b2a51bc8d46537a7d3e67320f187e53a36"
+          }
+        },
+        {
+          "client_id": "390758581956-23bll0l89aet82j789c2kirvmi0m5g2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrPjAv584vBu99fSV3539IDDAqqULFY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390758581956-23bll0l89aet82j789c2kirvmi0m5g2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
